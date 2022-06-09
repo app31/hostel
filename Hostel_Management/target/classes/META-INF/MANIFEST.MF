@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Hostel_Management
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ahnas
+Implementation-Vendor-Id: com.quest.java.hostel
+Build-Jdk: 1.8.0_20
+Implementation-URL: https://spring.io/projects/spring-boot/Hostel_Mana
+ gement
+Created-By: Maven Integration for Eclipse
+
